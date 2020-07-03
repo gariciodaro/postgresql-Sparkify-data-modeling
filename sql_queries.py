@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jun 19 2020
+
+@author: gari.ciodaro.guerra
+
+Set of functions to create queries for, create, drop,
+insert and search in tables of the DB.
+"""
+
 # Auxiliar funtions
 def create_tables(name,string_columns):
     """Returns string used to produce

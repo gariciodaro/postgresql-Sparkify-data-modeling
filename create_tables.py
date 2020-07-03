@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jun 19 2020
+
+@author: gari.ciodaro.guerra
+
+parameters of creation and connection to DB. 
+The executor of queries from sql_queries.py
+"""
+
 import psycopg2
 from sql_queries import create_table_queries, drop_table_queries
 

@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jun 19 2020
+
+@author: gari.ciodaro.guerra
+
+Orchestration of all the other scripts to do the ETL process
+"""
+
 import os
 import glob
 import psycopg2
